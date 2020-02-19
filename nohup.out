@@ -1,0 +1,168 @@
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "cont_scale_down.py", line 6, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+Traceback (most recent call last):
+  File "container_scale_up.py", line 10, in <module>
+    serv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+NameError: name 'socket' is not defined
+af7b8c63313f6e052d045396e76ad3f32b59073cbcb49f8a16dba466c562a9b7
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con3" is already in use by container "af7b8c63313f6e052d045396e76ad3f32b59073cbcb49f8a16dba466c562a9b7". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con3" is already in use by container "af7b8c63313f6e052d045396e76ad3f32b59073cbcb49f8a16dba466c562a9b7". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+6bbe19eb692f0e4d617d4c4b0e9fd91db0b86e16d58f45ffaf206d4dd54c7ac7
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con4" is already in use by container "6bbe19eb692f0e4d617d4c4b0e9fd91db0b86e16d58f45ffaf206d4dd54c7ac7". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con4" is already in use by container "6bbe19eb692f0e4d617d4c4b0e9fd91db0b86e16d58f45ffaf206d4dd54c7ac7". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+09c7e79a56a41f12d938501d7be2401e0ff3bbbcd72d07ab36c65918bfb04a87
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con3" is already in use by container "09c7e79a56a41f12d938501d7be2401e0ff3bbbcd72d07ab36c65918bfb04a87". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con3" is already in use by container "09c7e79a56a41f12d938501d7be2401e0ff3bbbcd72d07ab36c65918bfb04a87". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+f16ec98c4b35ad16d0d09e3db302b20e37b4c395060cce5567ef06cf16fd4d45
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con4" is already in use by container "f16ec98c4b35ad16d0d09e3db302b20e37b4c395060cce5567ef06cf16fd4d45". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con4" is already in use by container "f16ec98c4b35ad16d0d09e3db302b20e37b4c395060cce5567ef06cf16fd4d45". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+3fcac5945f492755bb5ac12c2bb6dd30cb45d2908542d35db735914e2609e0b0
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con5" is already in use by container "3fcac5945f492755bb5ac12c2bb6dd30cb45d2908542d35db735914e2609e0b0". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con5" is already in use by container "3fcac5945f492755bb5ac12c2bb6dd30cb45d2908542d35db735914e2609e0b0". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+06133ac1ee3b43c88bff88db0172a0ef271113378712a62e728af33fdb2fcecb
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con3" is already in use by container "06133ac1ee3b43c88bff88db0172a0ef271113378712a62e728af33fdb2fcecb". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con3" is already in use by container "06133ac1ee3b43c88bff88db0172a0ef271113378712a62e728af33fdb2fcecb". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+0de173ffb32b01011ea30544fd642a805e65f9b6bb308be2805fabe0c240d2d5
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con4" is already in use by container "0de173ffb32b01011ea30544fd642a805e65f9b6bb308be2805fabe0c240d2d5". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con4" is already in use by container "0de173ffb32b01011ea30544fd642a805e65f9b6bb308be2805fabe0c240d2d5". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+80ab04e25d71e30e2d4489302763a8b940b1ce06f08cdf3830fc50e692114c3e
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con5" is already in use by container "80ab04e25d71e30e2d4489302763a8b940b1ce06f08cdf3830fc50e692114c3e". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+docker: Error response from daemon: Conflict. The container name "/T2_br2_con5" is already in use by container "80ab04e25d71e30e2d4489302763a8b940b1ce06f08cdf3830fc50e692114c3e". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.

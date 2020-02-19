@@ -1,0 +1,9 @@
+Bridge: {br120: 56.0.0.0/24}
+Containers:
+- {demo1: 56.0.0.132}
+- {demo2: 56.0.0.39}
+max_containers: 5
+min_containers: 2
+network: demo_nw
+threshold: 0.3
+
