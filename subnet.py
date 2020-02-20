@@ -110,7 +110,6 @@ file_name=home_dir + "/Cont_IPs/" + bridge + '.yml'
 with open(file_name,'r') as f:
      doc=yaml.load(f)
      doc["Containers"] = lofdict
-print("Erwin Rommel")
 print(doc)
 #doc["Containers"]= lofdict
 
